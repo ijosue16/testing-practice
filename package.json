@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest  --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijosue16/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijosue16/testing-practice/issues"
+  },
+  "homepage": "https://github.com/ijosue16/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
